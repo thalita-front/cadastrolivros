@@ -1,4 +1,6 @@
 # Cadastro de Livros
+⚠️ **Atenção:** Este projeto é feito em **Python** e deve ser executado **no terminal**.  
+> Não funciona em navegadores nem via GitHub Pages. Para testar, é necessário clonar e rodar localmente.
 
 Projeto simples em **Python** para cadastrar livros com interface no terminal. Criado como parte dos meus estudos em lógica de programação, estrutura de dados e uso de listas.
 
